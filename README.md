@@ -1,8 +1,6 @@
 # Landschaft
 
-Die demokratische Schnecke. Ein großes Märchen.
-Oder auch eine kollabroartive Textlandschaft.
+das ist der Pool: hier können alle texte gespeichert werden
+und ohne öffentliches Einsehen bearbeitet werden.
 
-von Heike Geißler und Anna Lena von Helldorff
-25.3.—22.4. 
-Museum Villa Stück München
+
